@@ -69,7 +69,7 @@ const About = () => {
               {/* Gradient backing offset */}
               <div className="absolute -bottom-3 -right-3 w-full h-full rounded-2xl bg-gradient-to-br from-[#e8c9a8] to-[#c48264] z-0" />
               <img
-                src="https://res.cloudinary.com/dtvjjump9/image/upload/v1771848109/portrait_gsmwss.avif"
+                src="profile_pic2.jpg"
                 alt="Ylessa Rose Dumas"
                 className="relative z-10 w-64 h-80 object-cover rounded-2xl shadow-2xl"
               />

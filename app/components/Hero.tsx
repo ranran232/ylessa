@@ -14,7 +14,7 @@ const Hero = () => {
     Hi, I'm <span className="text-[#c48264]">Ylessa Rose Dumas</span> — Virtual Assistant Helping Online Businesses Stay Organized & Visible
     </h1>
           <img
-            src="https://res.cloudinary.com/dtvjjump9/image/upload/v1771848109/portrait_gsmwss.avif"
+            src="/profile_pic.jpg"
             alt="Portrait"
             className="w-60 h-60 md:w-96 md:h-96 object-cover rounded-2xl shadow-lg"
           />
