@@ -30,9 +30,9 @@ const Hero = () => {
           </p>
 
           <div className="flex gap-0 md:gap-5 flex-col md:flex-row py-7 md:py-0">
-          <button className="w-full mt-8 px-6 py-3 bg-[#1a1009] text-white rounded-xl shadow-md transition transform hover:-translate-y-1 duration-300">
+          <a href="#contacts" className="text-center w-full mt-8 px-6 py-3 bg-[#1a1009] text-white rounded-xl shadow-md transition transform hover:-translate-y-1 duration-300">
         Work With Me
-        </button>
+        </a>
 
         <a className="w-full mt-8 px-6 text-center py-3 border-[1.5px] border-[#c48264] bg-transparent text-[#2d1f14] rounded-xl shadow-md hover:bg-[#c48264] hover:text-white transition transform hover:-translate-y-1 duration-300" href="#services">
         My Services
